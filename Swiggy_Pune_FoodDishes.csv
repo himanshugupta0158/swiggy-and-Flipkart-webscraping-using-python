@@ -1,0 +1,527 @@
+,name,restaurant,city,price,rating,deliveryTime
+0,Pizza Hut,pizza-hut-kalyani-bungalow-koregaon-park,pune,350,100+ ratings,39
+1,McDonald's,mc-donalds-koregaon-park-koregaon-park,pune,400,1000+ ratings,36
+2,Uncle's Chinese,uncles-chinese-koregaon-park,pune,350,500+ ratings,35
+3,Theobroma,theobroma-koregaon-park-koregaon-park,pune,800,100+ ratings,28
+4,Rolls Mania,rolls-mania-camp-camp,pune,200,500+ ratings,30
+5,Subway,subway-koregaon-park,pune,350,100+ ratings,33
+6,Good Fettle - Healthy Ice Creams,good-fettle---healthy-ice-cream-bandra-west-bandra-west,pune,300,20+ ratings,43
+7,The Doner Company,the-doner-company-koregaon-park-koregaon-park,pune,350,100+ ratings,32
+8,Natural Ice Cream,natural-ice-cream-near-gulmohar-gardens-koregaon-park,pune,150,100+ ratings,28
+9,THE CHICKSTER- Fried Chicken ,the-chickster-koregaon-park-koregaon-park,pune,450,100+ ratings,35
+10,Cafe Durga,cafe-durga-kalyani-nagar-kalyani-nagar,pune,200,50+ ratings,31
+11,Toscano,toscano-koregaon-park-koregaon-park,pune,1200,100+ ratings,37
+12,The Belgian Waffle Co.,the-belgian-waffle-co-koregaon-park-kalyani-nagar,pune,200,100+ ratings,36
+13,The Mousse Coupe,foodiedoo-kalyani-nagar-kalyani-nagar,pune,250,Too Few Ratings,32
+14,Malaka Spice,malaka-spice-koregaon-park-koregaon-park,pune,1300,100+ ratings,35
+15,Huber & Holly,huber-holy-koregaon-park-koregaon-park,pune,500,100+ ratings,28
+16,Trattoria by Toscano,trattoria-by-toscano-south-main-road-sanas-corner-koregaon-park,pune,1200,100+ ratings,35
+17,GATTI CHUTNEY,gatti-chutney-kalyani-nagar-kalyani-nagar,pune,200,100+ ratings,33
+18,Pavlovs,pavlovs-koregaon-park-koregaon-park,pune,400,20+ ratings,40
+19,PUNJAB JUNCTION,punjab-junction-kalyani-nagar-kalyani-nagar,pune,400,Too Few Ratings,33
+20,Kushta by Semporo,kushta-by-semporo-kalyani-nagar-kalyani-nagar,pune,800,50+ ratings,36
+21,Arthur's Theme,arthurs-theme-koregaon-park,pune,800,50+ ratings,35
+22,The Burger Barn Cafe,the-burger-barn-cafe-koregaon-park,pune,300,100+ ratings,36
+23,The Oxton Food Company,the-oxton-food-co.---by-semporo-kalyani-nagar-kalyani-nagar,pune,700,20+ ratings,33
+24,Burger 69 & More,burger-69-more-koregaon-park-kalyani-nagar,pune,300,Too Few Ratings,37
+25,Nandu's Paratha & TND Fastfood,nandus-paratha-dp-road-koregaon-park,pune,200,500+ ratings,37
+26,1441 Pizzeria,1441-pizzeria-koregaon-park-koregaon-park,pune,400,100+ ratings,37
+27,Bebe Di Rasoi - Punjabi,bebe-di-rasoi-kalyani-nagar-kalyani-nagar,pune,300,1000+ ratings,39
+28,Toscano's Crafted Cakes and Desserts,toscanos-crafted-cakes-and-desserts-koregaon-park-koregaon-park,pune,1200,Too Few Ratings,35
+29,The Daily All Day Pune,the-daily-all-day-koregaon-park-koregaon-park,pune,1000,100+ ratings,34
+30,Sassy Teaspoon,sassy-teaspoon-koregaon-park-kalyani-nagar,pune,800,100+ ratings,31
+31,Momo's Corrner ,momo's-corrner-kalyani-nagar-kalyani-nagar,pune,300,Too Few Ratings,31
+32,NOTO Healthy Ice Cream,noto-healthy-ice-cream-kalyani-nagar-kalyani-nagar,pune,250,Too Few Ratings,35
+33,Tangasseri by Semporo,tangasseri-by-semporo-kalyani-nagar-kalyani-nagar,pune,1500,20+ ratings,37
+34,Foodiedoo,foodiedoo-kalyani-nagar-kalyani-nagar-2,pune,500,Too Few Ratings,33
+35,Swirlyo,swirlyo-kalyani-nagar-kalyani-nagar,pune,150,Too Few Ratings,31
+36,Super smash burgers,super-smash-burgers-kalyani-nagar-kalyani-nagar,pune,400,Too Few Ratings,39
+37,Miss Gelato,miss-gelato-kharadi-kharadi,pune,200,20+ ratings,31
+38,Talli Bar & Kitchen,talli-kalyani-nagar-kalyani-nagar,pune,800,Too Few Ratings,33
+39,Publiq,publiq-kalyani-nagar-kalyani-nagar,pune,1700,Too Few Ratings,33
+40,Mocha,mocha-koregaon-park-kalyani-nagar,pune,800,50+ ratings,37
+41,Little Italy,little-italy-bund-garden-road-koregaon-park,pune,1200,100+ ratings,40
+42,Good News Dhaba,good-news-dhaba-kalyani-nagar,pune,700,20+ ratings,39
+43,Piazza pizza by Little Italy,piazza-bund-garden-road-koregaon-park,pune,500,100+ ratings,41
+44,BOX8 - Desi Meals,box8-desi-meals-camp-koregaon-park,pune,250,100+ ratings,37
+45,Senoritas Mexican kitchen by Little Italy,senorita-mexican-kitchen-bund-garden-road-koregaon-park,pune,500,20+ ratings,39
+46,Reddy's Fast Food,reddys-fast-food-yerawada-koregaon-park,pune,400,100+ ratings,45
+47,McDonald's Gourmet Burger Collection,mcdonalds-gourmet-burger-collection-wadgaon-sheri-kalyani-nagar-kalyani-nagar,pune,600,20+ ratings,34
+48,Hotel Al Zaika,hotel-al-zaika-viman-nagar-viman-nagar,pune,300,500+ ratings,37
+49,Cakeman,cakeman-kalyani-nagar-koregaon-park,pune,300,100+ ratings,37
+50,Mealful Rolls - Meals in a Roll,mealful-wraps-camp-koregaon-park,pune,250,Too Few Ratings,38
+51,Itminaan Biryani - Dum Pukht,itminaan-dum-pukht-biryani-camp-koregaon-park,pune,250,20+ ratings,42
+52,NIC Natural Ice Creams,nic-natural-ice-creams-madinaguda-main-road-aundh,pune,120,100+ ratings,32
+53,ZAZA 22 Spice Biryani,zaza-21-spice-biryani-camp-koregaon-park,pune,250,Too Few Ratings,35
+54,Shahi Pakwan,shahi-pakwan-viman-nagar,pune,300,100+ ratings,40
+55,Irani Cafe,the-irani-cafe-kalyani-nagar-kalyani-nagar,pune,250,1000+ ratings,36
+56,Burger King,burger-king-viman-nagar,pune,350,1000+ ratings,57
+57,Philly Fried Chicken,philly-diner-kharadi-kharadi,pune,500,100+ ratings,41
+58,Zaika restaurant,zaika-restaurant-vishrantwadi-vishrantwadi,pune,300,Too Few Ratings,41
+59,Hotel New Zaika,hotel-new-zaika-vishrantwadi-vishrantwadi,pune,300,Too Few Ratings,40
+60,Green Salad Company,green-salad-company-kharadi-kharadi,pune,400,100+ ratings,37
+61,Tawakkal,tawakkal-vishrantwadi-vishrantwadi,pune,300,Too Few Ratings,40
+62,Grameen Kulfi,grameen-kulfi-dhole-patil-road-koregaon-park,pune,120,20+ ratings,32
+63,The Bohemian Kitchen,the-bohemian-kitchen-viman-nagar-viman-nagar,pune,300,50+ ratings,38
+64,Shah restaurant,shah-restaurant-vishrantwadi-vishrantwadi,pune,300,Too Few Ratings,44
+65,Kohinoor,kohinoor-vishrantwadi-vishrantwadi,pune,300,Too Few Ratings,48
+66,Mannat,mannat-vishrantwadi-vishrantwadi,pune,300,Too Few Ratings,40
+67,Sim Sim,sim-sim-vishrantwadi-vishrantwadi,pune,300,Too Few Ratings,36
+68,Shamiyana,shamiyana-vishrantwadi-vishrantwadi,pune,300,Too Few Ratings,45
+69,Try Luck,try-luck-vishrantwadi-vishrantwadi,pune,300,Too Few Ratings,38
+70,A1 Restaurant,a1-restaurant-vishrantwadi-vishrantwadi,pune,300,Too Few Ratings,44
+71,Steakhouse,steakhouse-viman-nagar-kharadi,pune,300,100+ ratings,40
+72,Aaina,aaina-vishrantwadi-vishrantwadi,pune,300,Too Few Ratings,39
+73,Foods point,foods-point-vishrantwadi-vishrantwadi,pune,300,Too Few Ratings,39
+74,Al Barkat,al-barkat-vishrantwadi-vishrantwadi,pune,300,Too Few Ratings,48
+75,KNIGHT RIDERS,knight-riders-magarpatta-magarpatta,pune,300,Too Few Ratings,40
+76,Nawabi Tadka,nawabi-tadka-vishrantwadi-vishrantwadi,pune,300,Too Few Ratings,42
+77,Happy Singh,happy-singh-vishrantwadi-vishrantwadi,pune,300,Too Few Ratings,42
+78,Rewar park,rewar-park-vishrantwadi-vishrantwadi,pune,300,Too Few Ratings,39
+79,Mughal Tadka,mughal-tadka-vishrantwadi-vishrantwadi,pune,300,Too Few Ratings,45
+80,Mughal Tadka,mughal-tadka-vishrantwadi-vishrantwadi,pune,300,Too Few Ratings,45
+81,Shahi Dawat,hotel-shalimar-viman-nagar,pune,300,50+ ratings,40
+82,Hotel Malabar,hotel-malabar-viman-nagar-viman-nagar,pune,400,100+ ratings,36
+83,Eatsome,eatsome-viman-nagar,pune,200,500+ ratings,41
+84,Blue Shack,blue-shack-mundhwa-magarpatta,pune,1000,Too Few Ratings,43
+85,Hotel Al Madina,hotel-al-madina-viman-nagar,pune,300,50+ ratings,40
+86,Food Signal,hotel-shivar-viman-nagar,pune,300,100+ ratings,39
+87,Rasoi Punjab,fish-land-viman-nagar-viman-nagar,pune,300,Too Few Ratings,38
+88,GetAWhey - Healthy Ice creams.,get-a-whey-healthy-ice-cream-kalyani-nagar-kalyani-nagar,pune,300,20+ ratings,37
+89,Kwality Family Resto Bar(RAJA BHADHUR MILLS),kwality-family-resto-bar-koregaon-park-koregaon-park,pune,800,20+ ratings,43
+90,Tandoor Point,hotel-lizzat-viman-nagar-viman-nagar,pune,300,100+ ratings,39
+91,Vadilal Ice Cream,vadilal-ice-cream-viman-nagar-viman-nagar-4,pune,200,Too Few Ratings,47
+92,SLICE PIZZA BY GREEDYMAN PIZZERIA,slice-pizza-by-greedyman-pizzeria-baner-baner-2,pune,500,Too Few Ratings,50
+93,LA CHERIE CHEESECAKE,la-cherie-cheesecake-kalyani-nagar-kalyani-nagar,pune,499,20+ ratings,38
+94,Punjabi Non Veg,punjabi-non-veg-viman-nagar,pune,300,20+ ratings,41
+95,CakeZone,cakezone-mundhwa-kalyani-nagar,pune,200,500+ ratings,45
+96,Tandoor Point,hotel-lizzat-viman-nagar-viman-nagar,pune,300,100+ ratings,39
+97,Vadilal Ice Cream,vadilal-ice-cream-viman-nagar-viman-nagar-4,pune,200,Too Few Ratings,47
+98,SLICE PIZZA BY GREEDYMAN PIZZERIA,slice-pizza-by-greedyman-pizzeria-baner-baner-2,pune,500,Too Few Ratings,50
+99,LA CHERIE CHEESECAKE,la-cherie-cheesecake-kalyani-nagar-kalyani-nagar,pune,499,20+ ratings,38
+100,Punjabi Non Veg,punjabi-non-veg-viman-nagar,pune,300,20+ ratings,41
+101,Hotel Shivar,hotel-shivar-viman-nagar-viman-nagar,pune,400,Too Few Ratings,42
+102,Roll King,roll-king-viman-nagar,pune,200,20+ ratings,40
+103,Hotel Spice Route,hotel-spice-route-magarpatta-magarpatta,pune,350,20+ ratings,45
+104,pan junction,pan-junction-magarpatta-magarpatta,pune,200,Too Few Ratings,48
+105,Anda World,anda-world-kharadi-kharadi,pune,300,Too Few Ratings,41
+106,Hotel Chaitanya,hotel-chaitanya-mundhwa-koregaon-park,pune,300,Too Few Ratings,45
+107,Masala Mafia,masala-mafia-kharadi-kharadi,pune,150,20+ ratings,43
+108,Her Paratha Factory,her-paratha-factory-camp-camp,pune,200,Too Few Ratings,44
+109,Masala Kitchen,masala-kitchen-kharadi-pune-vam,pune,300,20+ ratings,40
+110,Biryani Blast,biryani-blast-kharadi-kharadi,pune,350,Too Few Ratings,44
+111,Classic Pav Bhaji,classic-pav-bhaji-camp-camp,pune,200,Too Few Ratings,44
+112,Chaats and Wraps,chaats-and-wraps-viman-nagar-viman-nagar,pune,200,500+ ratings,40
+113,Faasos' Signature Wraps & Rolls,signature-wraps-rolls-by-faasos-next-to-bank-of-maharashtra-viman-nagar,pune,350,Too Few Ratings,42
+114,Baskin Robbins Happyness Shakes,baskin-robbins-happyness-shakes-kalyani-nagar-viman-nagar,pune,200,Too Few Ratings,41
+115,MAGNUS HOTELS AND RESTAURANT,magnus-hotels-and-restaurant-viman-nagar-viman-nagar,pune,400,Too Few Ratings,50
+116,E Hide Cafe,e-hide-cafe-viman-nagar-viman-nagar-2,pune,350,Too Few Ratings,43
+117,Helium Club and Kitchen,helium-club-and-kitchen-viman-nagar-viman-nagar,pune,1200,Too Few Ratings,42
+118,Gargi express,gargi-express-viman-nagar-viman-nagar,pune,450,100+ ratings,45
+119,Signature Fine Dining,signature-fine-dining-viman-nagar-viman-nagar,pune,600,500+ ratings,43
+120,7th Heaven Cake Shop,7th-heaven-cake-shop-viman-nagar-viman-nagar,pune,200,100+ ratings,40
+121,Slice of Soul (S.O.S.),slice-of-soul-sos-kalyani-nagar-koregaon-park,pune,299,500+ ratings,42
+122,Sweet Truth - Cake and Desserts,sweet-truth-next-to-bank-of-maharashtra-viman-nagar,pune,450,50+ ratings,37
+123,9834 The Fruit Truck,9834-the-fruit-truck-viman-nagar-viman-nagar,pune,200,100+ ratings,40
+124,Lazeez by Hyderabadi Delicacies,lazeez-viman-nagar,pune,450,100+ ratings,44
+125,The Greedyman Pizzeria,the-greedy-man-pizzeria-viman-nagar-viman-nagar,pune,500,100+ ratings,46
+126,Behrouz Biryani,behrouz-biryani-g-floor-konark-industrial-estate-next-to-rosary-school-sakore-nagar-viman-nagar,pune,500,500+ ratings,44
+127,POONA PAN SHOP,poona-pan-shop-vishrantwadi-vishrantwadi,pune,80,Too Few Ratings,38
+128,Veg Daawat by Behrouz,veg-daawat-by-behrouz-keshav-nagar-magarpatta,pune,500,Too Few Ratings,46
+129,The Brooklyn Creamery - Healthy Ice Cream,the-brooklyn-creamery-low-cal-ice-cream-keshav-nagar-magarpatta,pune,200,20+ ratings,42
+130,Chai Point,chai-point-magarpatta-tower-4-magarpatta,pune,150,500+ ratings,48
+131,Apsara Ice Creams,apsara-ice-creams-gandharva-galaxia-hadapsar,pune,150,100+ ratings,44
+132,Chinese Town,chinese-town-magarpatta-magarpatta,pune,200,Too Few Ratings,46
+133,KHICHDI ETC,khichdi-etc-kharadi-kharadi,pune,400,1000+ ratings,41
+134,Apna Punjab,apna-punjab-magarpatta-magarpatta,pune,400,1000+ ratings,49
+135,Flamiingo Lounge,flamiingo-lounge-magarpatta-magarpatta,pune,700,Too Few Ratings,46
+136,R J Bakers,r-j-bakers-magarpatta-magarpatta,pune,150,Too Few Ratings,48
+137,Tiffin Peddler,tiffin-peddler-magarpatta-magarpatta,pune,250,Too Few Ratings,50
+138,Kava Kitchen - Fairfield by Marriott,kava-kitchen-time-office-kharadi,pune,500,Too Few Ratings,50
+139,Authentic Royal,authentic-royal-hadapsar-magarpatta,pune,450,Too Few Ratings,54
+140,Taco Bell,taco-bell-seasons-mall-hadapsar,pune,300,500+ ratings,54
+141,Multi Cuisine,multi-cuisine-magarpatta-magarpatta,pune,400,Too Few Ratings,46
+142,The Paratha House,the-paratha-house-magarpatta,pune,100,500+ ratings,47
+143,Indian Spice,indian-spice-magarpatta-magarpatta,pune,500,Too Few Ratings,46
+144,Crazy Cheesy (Viman Nagar),crazy-cheesy-(viman-nagar)-viman-nagar-viman-nagar,pune,400,100+ ratings,43
+145,HAND PICKED THALI & COMBOS,hand-pick-thali-&-combo’s-viman-nagar-viman-nagar,pune,450,20+ ratings,42
+146,Kachori Chowk,kachori-chowk-viman-nagar-viman-nagar,pune,400,Too Few Ratings,42
+147,Domio's Pizza - A-1 Pizza Shop,domio's-pizza---a-1-pizza-shop-viman-nagar-viman-nagar,pune,250,50+ ratings,45
+148,The Momo Box,the-momo-box-viman-nagar-viman-nagar,pune,150,100+ ratings,39
+149,Big City Waffle,chinese-bowl-company-pimple-saudagar-pimple-saudagar,pune,250,20+ ratings,52
+150,SPIRITS BAR AND RESTAURANT,spirits-bar-and-restaurant-viman-nagar-viman-nagar,pune,250,Too Few Ratings,41
+151,THE PANDA TIMES,the-panda-times-viman-nagar-viman-nagar,pune,450,Too Few Ratings,43
+152,Veg Daawat by Behrouz,veg-daawat-by-behrouz-next-to-bank-of-maharashtra-viman-nagar,pune,500,Too Few Ratings,42
+153,Classic China Bowl,classic-china-bowl-viman-nagar-viman-nagar,pune,300,50+ ratings,39
+154,Dragon Fire,dragon-fire-viman-nagar,pune,250,100+ ratings,37
+155,Tales & Spirits Hunters Bistro,tales-&-spirits-hunters-bistro-viman-nagar-viman-nagar,pune,800,Too Few Ratings,45
+156,The Brooklyn Creamery - Healthy Ice Cream,the-brooklyn-creamery-low-cal-ice-cream-clover-corner-viman-nagar,pune,200,20+ ratings,34
+157,KRUSH CAFE,krush-cafe-viman-nagar-viman-nagar,pune,450,Too Few Ratings,43
+158,captain rolls,pune-roll-company-viman-nagar-viman-nagar-2,pune,200,100+ ratings,42
+159,Hotel Spice Route,hotel-spice-route-magarpatta-magarpatta,pune,350,20+ ratings,46
+160,SUPERMAN MOMOS,momos-bowl-company-viman-nagar-viman-nagar,pune,150,100+ ratings,39
+161,Dominos Style Pizza,dominos-style-pizza-viman-nagar-viman-nagar,pune,300,20+ ratings,48
+162,Nizam Rolls,roll-project-viman-nagar-viman-nagar,pune,200,20+ ratings,40
+163,Patiala Canteen,patiala-canteen-viman-nagar-viman-nagar-2,pune,300,50+ ratings,42
+164,Chinese Culture,the-chinese-culture-viman-nagar-viman-nagar,pune,150,100+ ratings,37
+165,Chinese Bowl Company,chinese-bowl-company-viman-nagar-viman-nagar,pune,300,100+ ratings,39
+166,BIRYANI BADSHAH,biryani-badshah-viman-nagar-viman-nagar,pune,350,100+ ratings,39
+167,pan junction,pan-junction-magarpatta-magarpatta,pune,200,Too Few Ratings,48
+168,Havmor Havfunn Ice Cream,havmor-ice-cream-viman-nagar-viman-nagar-2,pune,250,20+ ratings,40
+169,Largo Pizzeria,largo-pizzeria-viman-nagar-viman-nagar,pune,600,50+ ratings,45
+170,Le Pizza King,le-pizza-king-wagholi-pune-wagholi,pune,350,100+ ratings,44
+171,Mozo Pizza,mozo-pizza-viman-nagar-viman-nagar,pune,300,50+ ratings,47
+172,Keventers - Milkshakes and Desserts,keventers-phoenix-mall-pune-viman-nagar-2,pune,300,100+ ratings,53
+173,HER HIGHNESS,her-highness-viman-nagar-viman-nagar,pune,800,50+ ratings,44
+174,Breakfast place,breakfast-place-viman-nagar-viman-nagar,pune,200,100+ ratings,41
+175,Taco Alfresco,taco-alfresco-viman-nagar-viman-nagar,pune,300,100+ ratings,45
+176,Dk's Pizza & Burger Palace,dk's-pizza-&-burger-palace-magarpatta-magarpatta,pune,300,Too Few Ratings,48
+177,Pizza & Burger Studio,pizza-&-burger-studio-magarpatta-magarpatta,pune,350,Too Few Ratings,45
+178,Fast Food Express,fast-food-express-magarpatta-magarpatta,pune,400,Too Few Ratings,54
+179,Pizzabar Express,pizzabar-express-magarpatta-magarpatta,pune,350,Too Few Ratings,48
+180,Pizza Pie Cafe,pizza-pie-cafe-magarpatta-magarpatta,pune,400,Too Few Ratings,46
+181,World of Pizza & Burger,world-of-pizza-&-burger-magarpatta-magarpatta,pune,350,Too Few Ratings,50
+182,Pizzaria.com,pizzaria.com-magarpatta-magarpatta,pune,300,Too Few Ratings,46
+183,Ghar Ka Khana,ghar-ka-khana-magarpatta,pune,400,Too Few Ratings,48
+184,Fun Spice,fun-spice-seasons-mall-magarpatta,pune,700,20+ ratings,54
+185,KALLYFSO CAFE,kallyfso-cafe-kharadi-kharadi,pune,300,100+ ratings,44
+186,Magnora,magnora-magarpatta-magarpatta,pune,350,Too Few Ratings,50
+187,Food Eat's,food-eats-hadapsar,pune,400,Too Few Ratings,49
+188,Desi Punjab,desi-punjab-kharadi-kharadi,pune,300,Too Few Ratings,44
+189,SagarG,sagarg-hadapsar-hadapsar,pune,400,Too Few Ratings,46
+190,Meals101,meals101-magarpatta-magarpatta,pune,350,20+ ratings,51
+191,Doodle Chinese Chang,doodle-chinese-chang-kharadi-kharadi,pune,350,Too Few Ratings,44
+192,Sandwich junction,sandwich-junction-viman-nagar-viman-nagar,pune,250,20+ ratings,44
+193,Masala Kitchen,masala-kitchen-kharadi-pune-vam,pune,300,20+ ratings,41
+194,Biryani Blast,biryani-blast-kharadi-kharadi,pune,350,Too Few Ratings,45
+195,Raju Sandwich,raju-sandwich-viman-nagar-viman-nagar,pune,300,50+ ratings,42
+196,Almighty Jah,almighty-jah-kharadi-kharadi,pune,200,100+ ratings,40
+197,Fantastic Belgian Waffle,chinese-chef-co-pimple-nilakh-pimple-nilakh,pune,250,20+ ratings,44
+198,Roll Project,roll-project-viman-nagar-viman-nagar-2,pune,200,20+ ratings,39
+199,King Sandwich and Juice,king-sandwich-and-juice-viman-nagar-viman-nagar,pune,300,50+ ratings,42
+200,The Burger Project,mad-burgers-viman-nagar-viman-nagar,pune,350,50+ ratings,39
+201,mid night express,mid-night-express-viman-nagar-viman-nagar,pune,200,Too Few Ratings,47
+202,THE CHEF STORY,the-chef-story-viman-nagar-viman-nagar,pune,450,50+ ratings,43
+203,BOSS Burger,boss-burger-bb-viman-nagar-social-viman-nagar,pune,500,50+ ratings,50
+204,Mad Over Chicken,mad-over-chicken-viman-nagar-viman-nagar,pune,150,50+ ratings,53
+205,Five Fingers,five-fingers-viman-nagar-viman-nagar,pune,450,Too Few Ratings,48
+206,Sandwich Expert,sandwich-expert-viman-nagar-viman-nagar,pune,200,Too Few Ratings,53
+207,Il Fungo Magico,il-fungo-magico-koregaon-park-koregaon-park,pune,500,Too Few Ratings,44
+208,Great Punjab,great-punjab-kharadi-kharadi,pune,300,Too Few Ratings,50
+209,Sher E Punjab,sher-e-punjab-kharadi-kharadi,pune,400,20+ ratings,41
+210,Dolma Aunty Momos,veg-momo-factory-viman-nagar-viman-nagar-2,pune,150,20+ ratings,42
+211,Shanghai Chef Chinese,kakke-di-pavbhaji-viman-nagar-viman-nagar,pune,150,20+ ratings,40
+212,Burger King Factory,burger-king-factory-viman-nagar-viman-nagar,pune,300,20+ ratings,46
+213,Cheesy Pizza House,cheesy-pizza-house-swargate-swargate,pune,489,20+ ratings,45
+214,Mekong Folks,mekong-folks-viman-nagar-viman-nagar,pune,650,100+ ratings,46
+215,The Cheese Truck,the-cheese-truck-viman-nagar-viman-nagar-2,pune,180,100+ ratings,42
+216,Lespresso,lespresso-viman-nagar-viman-nagar,pune,200,Too Few Ratings,39
+217,Brewin Bistro,brewin-bistro-viman-nagar-viman-nagar,pune,300,Too Few Ratings,42
+218,Backstage,backstage-viman-nagar-viman-nagar-2,pune,400,Too Few Ratings,45
+219,Chai Khari,irani-chai-co-viman-nagar-viman-nagar,pune,200,50+ ratings,43
+220,Pizza Hut.Com,pizza-hut.com-viman-nagar-viman-nagar,pune,250,Too Few Ratings,48
+221,BHARATS KULFI LAB,bharats-kulfi-lab-kharadi-kharadi,pune,250,Too Few Ratings,44
+222,Kings Of Pizza & Burger,kings-of-pizza-&-burger-viman-nagar-viman-nagar,pune,300,Too Few Ratings,41
+223,Social,social-viman-nagar-viman-nagar-viman-nagar,pune,500,100+ ratings,52
+224,Rollhunt,rollhunt-kharadi-kharadi,pune,200,20+ ratings,45
+225,Senorita Margarita,senorita-margarita-kharadi-kharadi,pune,250,Too Few Ratings,44
+226,Pop Star Pizza,pop-star-pizza-kharadi-kharadi,pune,200,Too Few Ratings,44
+227,Happy Cow,happy-cow-kharadi-kharadi,pune,200,Too Few Ratings,44
+228,Shake it Chicaho,shake-it-chicaho-kharadi-kharadi,pune,250,Too Few Ratings,44
+229,Pind Da Swad,pind-da-swad-magarpatta-magarpatta,pune,300,50+ ratings,51
+230,SUPERMAN MOMOS,momos-bowl-company-magarpatta-magarpatta,pune,150,20+ ratings,53
+231,Momos express with kabab,momos-express-with-kabab-viman-nagar-viman-nagar,pune,150,Too Few Ratings,52
+232,China Xpress,china-xpress-magarpatta-magarpatta,pune,300,100+ ratings,52
+233,Rolls Mario,rolls-mario-kharadi-kharadi,pune,200,Too Few Ratings,41
+234,Kebabi,kebabi-kharadi-kharadi,pune,200,20+ ratings,48
+235,ShakeZone,shakes-+-baner-baner-2,pune,200,Too Few Ratings,45
+236,How's The Bowl,how's-the-bowl-magarpatta-magarpatta,pune,200,20+ ratings,50
+237,Burger 9,burger-9-kharadi-kharadi,pune,200,Too Few Ratings,46
+238,Chinese Culture,the-chinese-culture-magarpatta-magarpatta,pune,200,100+ ratings,51
+239,Rasoi King,king-rolls-hadapsar-hadapsar,pune,300,Too Few Ratings,48
+240,Punjabi Chillies,punjabi-chillies-magarpatta-magarpatta,pune,300,Too Few Ratings,55
+241,The Burger Project,mad-burgers-magarpatta-magarpatta,pune,350,20+ ratings,52
+242,The Chinese hub,the-chinese-hub-kharadi-kharadi,pune,250,50+ ratings,47
+243,Reddy's Restaurant,reddy's-restaurant-magarpatta-magarpatta,pune,300,20+ ratings,51
+244,ONESTA,onesta-kharadi-kharadi,pune,200,50+ ratings,46
+245,KHICHDI AROMA,khichdi-aroma-kharadi-kharadi,pune,300,50+ ratings,45
+246,OYE KAKKE BY SPICE FACTORY,oye-kakke-by-spice-factory-kharadi-kharadi,pune,250,20+ ratings,45
+247,Krishna Veg Chinese,krishna-veg-chinese-magarpatta-magarpatta,pune,300,Too Few Ratings,50
+248,Burger House,burger-house-kharadi-kharadi,pune,300,20+ ratings,48
+249,"Hotel Swad veg nonveg, Family restaurant. Speciall","hotel-swad-veg-nonveg,-family-restaurant.-speciall-kharadi-kharadi",pune,450,Too Few Ratings,48
+250,Ulfat-E-Biryani,ulfat-e-biryani-kharadi-kharadi,pune,500,Too Few Ratings,52
+251,Hindusthani Khana,hindusthani-khana-kharadi-kharadi,pune,200,Too Few Ratings,47
+252,The Wrap Co.,the-wrap-co-kharadi-kharadi,pune,350,50+ ratings,49
+253,Quality Biryani House,quality-biryani-house-kharadi-kharadi,pune,300,Too Few Ratings,47
+254,Smoodies & Juices: Yours Fruitfully,smoodies-kharadi-kharadi,pune,140,Too Few Ratings,43
+255,Platinum Wok,platinum-wok-kharadi-kharadi,pune,300,Too Few Ratings,47
+256,Indian Tadka - Taste Punjab Da,indian-tadka-taste-punjab-da-magarpatta-petrol-pump-magarpatta,pune,300,100+ ratings,48
+257,ALOHA THE TIKI BAR,y.-m.-foods-and-beverages-aloha-the-tiki-bar-magarpatta-magarpatta,pune,1200,Too Few Ratings,51
+258,Chinese Restaurant,chinese-restaurant-magarpatta-magarpatta,pune,300,Too Few Ratings,51
+259,Chulbul Dhaba,chulbul-dhaba-kharadi-viman-nagar,pune,200,100+ ratings,46
+260,Punjabi Darbar Rasoi King,sane-punjab-hadapsar-hadapsar,pune,350,20+ ratings,51
+261,Punjabi Darbar,punjabi-darbar-hadapsar-hadapsar-2,pune,200,20+ ratings,52
+262,Vrindavan Pure Veg,vrindavan-pure-veg-kharadi-kharadi,pune,200,50+ ratings,45
+263,Tall Wall Chow Mien,tall-wall-chow-mien-hadapsar-hadapsar,pune,300,Too Few Ratings,52
+264,The Hot Chinese,the-hot-chinese-hadapsar-hadapsar,pune,300,Too Few Ratings,49
+265,THE HEALTH EQUATION,the-health-equation-kharadi-kharadi-2,pune,300,Too Few Ratings,47
+266,BMG Unplugged,bmg-unplugged-magarpatta-magarpatta,pune,1000,Too Few Ratings,58
+267,RAYALASEEMA REDDY'S RESTAURANT,rayalaseema-reddy's-restaurant-kharadi-kharadi,pune,280,100+ ratings,45
+268,Breakfast Xpress,breakfast-xpress-hadapsar-hadapsar,pune,100,Too Few Ratings,52
+269,amritsari spices,amritsari-spices-kharadi-kharadi,pune,300,20+ ratings,46
+270,Chao Mung China,chao-mung-china-kharadi-kharadi,pune,200,50+ ratings,48
+271,Chicken Hyderabadi,chiken-hyderabadi-kharadi-kharadi,pune,600,Too Few Ratings,49
+272,Tandoori palace,tandoori-palace-kharadi-kharadi,pune,300,50+ ratings,50
+273,SUKOON VILLAGE,sukoon-village-magarpatta-magarpatta,pune,1500,Too Few Ratings,51
+274,La Pino'z Pizza,la-pino-z-pizza-kharadi-kharadi,pune,400,500+ ratings,47
+275,The Tasty Tiffin,the-tasty-tiffin-kharadi-kharadi,pune,200,20+ ratings,44
+276,R K Restaurant,hotel-arab-zaika-viman-nagar-viman-nagar,pune,200,50+ ratings,47
+277,BIG BONG BIRYANI,big-bong-biryani-sangvi-sangvi,pune,800,20+ ratings,53
+278,Chow Mein & Co.,chow-mein-&-co.-kharadi-kharadi,pune,200,Too Few Ratings,59
+279,Royal Pune,royal-pune-lohgaon-lohgaon,pune,300,Too Few Ratings,48
+280,Hyderabadi Royal Biryani,hyderabadi-royal-biryani-kharadi-kharadi-3,pune,300,50+ ratings,45
+281,Zam Zam Restaurant,hotel-malabar-swargate,pune,400,Too Few Ratings,48
+282,Hotel Lazeez,hotel-al-zaika-viman-nagar-viman-nagar-2,pune,400,20+ ratings,46
+283,The Waffle Jar,siddheshwar-enterprises-kharadi-kharadi-2,pune,300,Too Few Ratings,45
+284,Pilaf Biryani,pilaf-biryani-kharadi-kharadi,pune,200,Too Few Ratings,47
+285,Shakezone,siddheshwar-enterprises-kharadi-kharadi,pune,250,Too Few Ratings,49
+286,Chaska Cafe,chaska-cafe-kharadi-kharadi,pune,350,Too Few Ratings,46
+287,RK Restaurant,rk-restaurant-lohgaon-lohgaon,pune,300,Too Few Ratings,45
+288,Hot Pan,hot-pan-viman-nagar-viman-nagar,pune,249,Too Few Ratings,44
+289,The Hungry Helpers,the-hungry-helpers-viman-nagar-viman-nagar,pune,300,Too Few Ratings,47
+290,The Pizza Nut,the-pizza-nut-viman-nagar-viman-nagar,pune,300,Too Few Ratings,43
+291,THE MOUSSE COUPLE,the-mousse-couple-kharadi-kharadi,pune,300,Too Few Ratings,41
+292,The Royal Biryani Burger and Momos,cheesy-pizza-house-vishrantwadi-vishrantwadi,pune,300,Too Few Ratings,45
+293,Cakes N Cakes,cake-n-cakes-viman-nagar-viman-nagar,pune,300,100+ ratings,38
+294,Badshahs Of BIRYANI,badshahs-of-biryani-magarpatta-magarpatta,pune,300,100+ ratings,52
+295,Tasty Punjab,tasty-punjab-magarpatta-magarpatta,pune,300,1000+ ratings,45
+296,Burger Craft,burger-craft-viman-nagar-viman-nagar,pune,800,100+ ratings,43
+297,Falahaar,falahaar-viman-nagar,pune,250,500+ ratings,40
+298,Rollfie,rollfie-viman-nagar-viman-nagar,pune,200,500+ ratings,41
+299,Night Option,night-option-viman-nagar-viman-nagar,pune,300,20+ ratings,42
+300,REDDYS RESTAURANT TANDOORI,reddys-restaurant-tandoori-viman-nagar-viman-nagar,pune,350,20+ ratings,48
+301,Aadi's Burgers and Food,aadi's-burgers-and-food-magarpatta-magarpatta,pune,140,Too Few Ratings,45
+302,Khaolite-X,khaolite-x-hadapsar-pune-hadapsar,pune,300,100+ ratings,44
+303,Hyderabadi Laziz,hyderabadi-laziz-kharadi-kharadi,pune,300,100+ ratings,39
+304,Jashn E Punjab,jashn-e-punjab-kharadi-kharadi,pune,200,Too Few Ratings,48
+305,A1 Zaika,a1restaurant-lohgaon-lohgaon,pune,300,Too Few Ratings,48
+306,Hotel Mughal Darbaar,hotel-arab-zaika-swargate,pune,200,Too Few Ratings,47
+307,Malang Biryani,malang-biryani-kharadi-kharadi,pune,200,Too Few Ratings,47
+308,HALAAL RESTUARANT,halaal-restuarant-lohgaon-lohgaon,pune,300,Too Few Ratings,47
+309,Beef Locknawi Special,food-point-lohgaon-lohgaon-2,pune,300,Too Few Ratings,48
+310,AL QURESH BEEF,royal-pune-lohgaon-lohgaon-2,pune,300,Too Few Ratings,47
+311,Just To Eat Restaurant,just-to-eat-restaurant-magarpatta-magarpatta,pune,400,Too Few Ratings,49
+312,Hedayet,hedayet-lohgaon-lohgaon,pune,300,Too Few Ratings,47
+313,COMBOMAN,comboman-magarpatta-magarpatta,pune,400,50+ ratings,42
+314,MUGHAL DARBAR,mughal-darbar-lohgaon-lohgaon,pune,300,20+ ratings,48
+315,Chan Tara,chan-tara-lohgaon-lohgaon,pune,300,Too Few Ratings,50
+316,DELHI  DARBAR,delhi-darbar-lohgaon-lohgaon,pune,300,Too Few Ratings,49
+317,Noodle Kings Restaurant,noodle-kings-restaurant-magarpatta-magarpatta,pune,1200,Too Few Ratings,48
+318,Bikaner sweets,bikaner-sweets-kharadi-kharadi-2,pune,200,20+ ratings,44
+319,Subhanallah,shubhanallah-lohgaon-lohgaon,pune,300,Too Few Ratings,46
+320,Rocket Singh paratha,rocket-singh-paratha-viman-nagar-viman-nagar,pune,200,50+ ratings,44
+321,HYDERABADI BIRYANI,hyderabadi-biryani-viman-nagar-viman-nagar,pune,350,Too Few Ratings,45
+322,Khichdi Junction,khichdi-junction-vishrantwadi-vishrantwadi,pune,200,20+ ratings,43
+323,MAMA BIRYANI BY REDDYS,mama-biryani-by-reddys-viman-nagar-viman-nagar,pune,350,Too Few Ratings,44
+324,AMBIENCE KITCHEN GRILL,ambience-kitchen-grill-viman-nagar-viman-nagar,pune,400,Too Few Ratings,45
+325,Curry Magic,curry-magic-viman-nagar-viman-nagar,pune,500,Too Few Ratings,43
+326,Delhi 6,delhi-6-viman-nagar-viman-nagar-2,pune,200,20+ ratings,44
+327,BIRYANI CHEF BY REDDYS,biryani-chef-by-reddys-viman-nagar-viman-nagar,pune,350,Too Few Ratings,45
+328,Yogi's Food,yogis-food-viman-nagar-viman-nagar,pune,250,20+ ratings,44
+329,Italian Pizza Hub,italian-pizza-hub-kharadi-kharadi,pune,520,Too Few Ratings,38
+330,Burger It Up,burger-it-up-kharadi-kharadi,pune,150,100+ ratings,46
+331,Cakes and Desserts By WarmOven,warmoven-cake-&-desserts-viman-nagar-viman-nagar,pune,200,100+ ratings,44
+332,Momo Zone - The Momo Company,momo-zone-–-the-momo-company-viman-nagar-viman-nagar,pune,200,20+ ratings,49
+333,THE CHEFS CHOICE,the-chefs-choice-viman-nagar-viman-nagar,pune,300,Too Few Ratings,40
+334,Naughty Cravings,naughty-cravings-viman-nagar-viman-nagar,pune,300,Too Few Ratings,46
+335,Chinese Town,chinese-town-magarpatta-magarpatta,pune,200,Too Few Ratings,46
+336,KHICHDI ETC,khichdi-etc-kharadi-kharadi,pune,400,1000+ ratings,42
+337,Apna Punjab,apna-punjab-magarpatta-magarpatta,pune,400,1000+ ratings,49
+338,SWAD THE REAL TASTE,swad-the-real-taste-viman-nagar-viman-nagar,pune,300,20+ ratings,46
+339,Big Reddy's,big-reddy's-viman-nagar-viman-nagar,pune,900,Too Few Ratings,49
+340,Zishan Caterers,zishan-caterers-kharadi,pune,200,Too Few Ratings,47
+341,pizza hut express,pizza-hut-express-viman-nagar-viman-nagar,pune,300,20+ ratings,56
+342,Flamiingo Lounge,flamiingo-lounge-magarpatta-magarpatta,pune,700,Too Few Ratings,46
+343,The Urban Chinese,the-urban-chinese-viman-nagar,pune,350,20+ ratings,50
+344,New Pizza Hut,new-pizza-hut-viman-nagar-viman-nagar,pune,300,20+ ratings,46
+345,foodies destination,foodies-destination-viman-nagar-viman-nagar,pune,300,Too Few Ratings,47
+346,HOTEL JAGDAMBA NONVEG,hotel-jagdamba-nonveg-viman-nagar-viman-nagar,pune,300,Too Few Ratings,47
+347,R J Bakers,r-j-bakers-magarpatta-magarpatta,pune,150,Too Few Ratings,48
+348,Tiffin Peddler,tiffin-peddler-magarpatta-magarpatta,pune,250,Too Few Ratings,50
+349,Kava Kitchen - Fairfield by Marriott,kava-kitchen-time-office-kharadi,pune,500,Too Few Ratings,51
+350,domi'o pizza,domi'o-pizza-viman-nagar-viman-nagar,pune,300,Too Few Ratings,47
+351,Authentic Royal,authentic-royal-hadapsar-magarpatta,pune,450,Too Few Ratings,54
+352,Chalu Chinese Express,chalu-chinese-express-kharadi-kharadi,pune,300,Too Few Ratings,51
+353,Snack Court,snack-corts-hadapsar-hadapsar,pune,250,Too Few Ratings,63
+354,Chalu Fried Chicken,chalu-fried-chicken-kharadi-kharadi,pune,249,Too Few Ratings,50
+355,Sasta Desi Express,sasta-desi-express-kharadi-kharadi,pune,250,Too Few Ratings,49
+356,Claypot,claypot-kharadi-kharadi,pune,450,100+ ratings,48
+357,Fried chicken Destination,fried-chicken-destination-magarpatta-magarpatta,pune,200,1000+ ratings,47
+358,The	Fort Bar & Kitchen,the	fort-bar-&-kitchen-hadapsar-hadapsar,pune,400,20+ ratings,55
+359,Hotel Madhura,hotel-madhura-lohgaon-lohgaon,pune,300,100+ ratings,51
+360,Chini Chor,chini-chor-kharadi,pune,200,50+ ratings,49
+361,Shaukeen Paan Kharadi,shaukeen-paan-kharadi-kharadi-kharadi,pune,50,20+ ratings,42
+362,Biryani House,biryani-house-kharadi-kharadi,pune,200,100+ ratings,45
+363,Sai Restaurant,shree-sai-restaurant-vishrantwadi-vishrantwadi,pune,300,100+ ratings,52
+364,Relax Pure Veg,relax-pure-veg-parvati-swargate,pune,500,1000+ ratings,52
+365,Rollfie,rollfie-dhanori-vishrantwadi,pune,200,500+ ratings,48
+366,Biryani Paradise,biryani-paradise-lohgaon-lohgaon,pune,300,Too Few Ratings,49
+367,Bubsterr's Bar & Kitchen,bubsterrs-bar-kitchen-kharadi-kharadi,pune,700,20+ ratings,51
+368,RushHrs,rushhrs-mega-centre-pune-solapur-road-magarpatta,pune,250,1000+ ratings,47
+369,Apne Punjab Da Swad,king-of-the-taste-magarpatta-magarpatta,pune,300,100+ ratings,49
+370,Paratha,paratha-magarpatta-magarpatta,pune,300,Too Few Ratings,48
+371,Sandwich & Burger Point,sandwich-&-burger-point-magarpatta-magarpatta,pune,300,Too Few Ratings,46
+372,Craft Of Biryani,craft-of-biryani-magarpatta-magarpatta,pune,450,Too Few Ratings,49
+373,Buy 1 Get 1 Free Khichdi,buy-1-get-1-free-khichdi-magarpatta-magarpatta,pune,300,Too Few Ratings,42
+374,Italian Pizza Shop,italian-pizza-shop-magarpatta-magarpatta,pune,400,Too Few Ratings,45
+375,Biryani Magic,biryani-magic-magarpatta-magarpatta-2,pune,350,Too Few Ratings,48
+376,Wow Chinese,wow-chinese-magarpatta-magarpatta,pune,300,Too Few Ratings,46
+377,Bong's Kitchen,bong's-kitchen-magarpatta-magarpatta,pune,250,20+ ratings,52
+378,Biriyani House,biriyani-house-hadapsar-hadapsar,pune,300,Too Few Ratings,48
+379,Laziz Xprs,laziz-xprs-kharadi-kharadi,pune,200,Too Few Ratings,44
+380,Pizza Burger Factory,pizza-burger-factory-magarpatta-magarpatta,pune,350,Too Few Ratings,47
+381,Thali Central,thali-central-magarpatta-magarpatta,pune,350,500+ ratings,49
+382,SKY FOOD QSR,sky-food-qsr-hadapsar-hadapsar,pune,350,Too Few Ratings,48
+383,Zippy Feed,zippy-feed-hadapsar-hadapsar,pune,250,Too Few Ratings,49
+384,Dhanashree's Punjabi Spice,dhanashree's-punjabi-spice-wagholi-wagholi,pune,800,Too Few Ratings,56
+385,Tandoori Paradise,tandoori-paradise-lohgaon-lohgaon,pune,300,Too Few Ratings,63
+386,Bengolis Kitchen,bengolis-kitchen-lohgaon-lohgaon,pune,250,20+ ratings,55
+387,Shaukeen - The Complete Paan Shop,shaukeen-the-complete-paan-shop-erandwane-kothrud,pune,150,100+ ratings,46
+388,Chinese Wok Master,the-chinese-wok-kothrud-kothrud,pune,200,50+ ratings,48
+389,Atithi veg (law college Road),amba-enterprizes-kothrud-kothrud,pune,300,50+ ratings,51
+390,Dum Zaiqa Handis Pvt Ltd,dum-zaiqa-handis-pvt-ltd-kharadi-kharadi,pune,500,Too Few Ratings,49
+391,Tatva Restaurant and Cafe,tatva-restaurant-and-cafe-lohgaon-lohgaon,pune,400,Too Few Ratings,53
+392,Best Belgian waffle,best-belgian-waffle-erandwane-kothrud,pune,250,500+ ratings,49
+393,Hotel Shivmudra,hotel-shivmudra-wagholi-wagholi,pune,300,Too Few Ratings,53
+394,Satguru's Punjabi Rasoi,satguru-s-punjabi-rasoi-wagholi-wagholi,pune,300,50+ ratings,51
+395,Snack shack,snack-shack-kothrud-kothrud-2,pune,200,Too Few Ratings,49
+396,Lf 91 cafe and restaurant,lf-91-cafe-and-restaurant-bopodi-bopodi,pune,250,Too Few Ratings,58
+397,Nimrah Biryani,nimrah-biryani-bopodi,pune,250,Too Few Ratings,59
+398,Sweet Truth - Cake and Desserts,sweet-truth-erandwane-kothrud,pune,450,50+ ratings,50
+399,MAINLAND CHINESE,mainland-chinese-shivaji-nagar-shivaji-nagar,pune,250,50+ ratings,50
+400,Cheezy,cheezy-camp-vam,pune,200,20+ ratings,48
+401,Amul Ice Cream Parlour,amul-ice-cream-parlour-kharadi,pune,200,20+ ratings,43
+402,TASTE OF HYDERABADI BIRYANIS,taste-of-hyderabadi-biryanis-magarpatta-magarpatta,pune,300,Too Few Ratings,47
+403,Dk's Pizza & Burger Palace,dk's-pizza-&-burger-palace-magarpatta-magarpatta,pune,300,Too Few Ratings,48
+404,Pizza & Burger Studio,pizza-&-burger-studio-magarpatta-magarpatta,pune,350,Too Few Ratings,45
+405,Fast Food Express,fast-food-express-magarpatta-magarpatta,pune,400,Too Few Ratings,54
+406,Pizzabar Express,pizzabar-express-magarpatta-magarpatta,pune,350,Too Few Ratings,48
+407,Pizza Pie Cafe,pizza-pie-cafe-magarpatta-magarpatta,pune,400,Too Few Ratings,46
+408,World of Pizza & Burger,world-of-pizza-&-burger-magarpatta-magarpatta,pune,350,Too Few Ratings,50
+409,Pizzaria.com,pizzaria.com-magarpatta-magarpatta,pune,300,Too Few Ratings,46
+410,Ghar Ka Khana,ghar-ka-khana-magarpatta,pune,400,Too Few Ratings,48
+411,Fun Spice,fun-spice-seasons-mall-magarpatta,pune,700,20+ ratings,54
+412,KALLYFSO CAFE,kallyfso-cafe-kharadi-kharadi,pune,300,100+ ratings,44
+413,Magnora,magnora-magarpatta-magarpatta,pune,350,Too Few Ratings,50
+414,Food Eat's,food-eats-hadapsar,pune,400,Too Few Ratings,49
+415,Desi Punjab,desi-punjab-kharadi-kharadi,pune,300,Too Few Ratings,45
+416,B B C FRY NATION,b-b-c-fry-nation-lohgaon-lohgaon,pune,400,Too Few Ratings,56
+417,The chef's Gallery,the-chef's-gallery-viman-nagar-viman-nagar,pune,200,Too Few Ratings,47
+418,Kondhalkar Mastani House,kondhalkar-mastani-house-swargate,pune,200,50+ ratings,52
+419,Pind Da Swad,pind-da-swad-magarpatta-magarpatta,pune,300,50+ ratings,50
+420,Momos express with kabab,momos-express-with-kabab-viman-nagar-viman-nagar,pune,150,Too Few Ratings,51
+421,China Xpress,china-xpress-magarpatta-magarpatta,pune,300,100+ ratings,52
+422,8x Pizza,8x-pizza-wakad-wakad,pune,300,Too Few Ratings,46
+423,Rolls Mario,rolls-mario-kharadi-kharadi,pune,200,Too Few Ratings,42
+424,Kebabi,kebabi-kharadi-kharadi,pune,200,20+ ratings,49
+425,ShakeZone,shakes-+-baner-baner-2,pune,200,Too Few Ratings,45
+426,How's The Bowl,how's-the-bowl-magarpatta-magarpatta,pune,200,20+ ratings,50
+427,Burger 9,burger-9-kharadi-kharadi,pune,200,Too Few Ratings,47
+428,Rasoi King,king-rolls-hadapsar-hadapsar,pune,300,Too Few Ratings,48
+429,SPICE FACTORY,spice-factory-kharadi-kharadi,pune,300,100+ ratings,46
+430,Wok Fried Chinese,wok-fried-chinese-kharadi-kharadi,pune,180,50+ ratings,47
+431,Lai Bhari Mutton Bhakari,lai-bhari-mutton-bhakari-viman-nagar-viman-nagar,pune,350,Too Few Ratings,49
+432,Burger Jackpot,burger-jackpot-wakad-wakad,pune,300,Too Few Ratings,44
+433,Chinese Restaurant,chinese-restaurant-magarpatta-magarpatta,pune,300,Too Few Ratings,51
+434,Chulbul Dhaba,chulbul-dhaba-kharadi-viman-nagar,pune,200,100+ ratings,47
+435,Punjabi Darbar Rasoi King,sane-punjab-hadapsar-hadapsar,pune,350,20+ ratings,50
+436,PVR Cafe,pvr-pvr-kumar-pacific-pune-kondhwa,pune,400,Too Few Ratings,61
+437,Punjabi Darbar,punjabi-darbar-hadapsar-hadapsar-2,pune,200,20+ ratings,52
+438,Vrindavan Pure Veg,vrindavan-pure-veg-kharadi-kharadi,pune,200,50+ ratings,46
+439,Tall Wall Chow Mien,tall-wall-chow-mien-hadapsar-hadapsar,pune,300,Too Few Ratings,52
+440,The Hot Chinese,the-hot-chinese-hadapsar-hadapsar,pune,300,Too Few Ratings,49
+441,THE HEALTH EQUATION,the-health-equation-kharadi-kharadi-2,pune,300,Too Few Ratings,47
+442,BMG Unplugged,bmg-unplugged-magarpatta-magarpatta,pune,1000,Too Few Ratings,58
+443,Jayashree Garden,jayashree-garden-tilak-road-camp,pune,500,100+ ratings,57
+444,RAYALASEEMA REDDY'S RESTAURANT,rayalaseema-reddy's-restaurant-kharadi-kharadi,pune,280,100+ ratings,46
+445,Kwality Walls Frozen Dessert and Ice Cream Shop,kwality-walls-frozen-dessert-and-ice-cream-shop-swargate-swargate-7,pune,200,Too Few Ratings,60
+446,Breakfast Xpress,breakfast-xpress-hadapsar-hadapsar,pune,100,Too Few Ratings,52
+447,amritsari spices,amritsari-spices-kharadi-kharadi,pune,300,20+ ratings,47
+448,Chao Mung China,chao-mung-china-kharadi-kharadi,pune,200,50+ ratings,49
+449,Madeena Buff Special ,south-sagar-lohgaon-lohgaon-2,pune,300,Too Few Ratings,48
+450,Nizami Rolls,nizami-rolls-kharadi-kharadi,pune,250,Too Few Ratings,53
+451,Swaad E Hyderabad,upper-dipper-kharadi-magarpatta,pune,200,Too Few Ratings,46
+452,Kolkatta Rolls,kolkatta-rolls-kharadi-kharadi-2,pune,300,Too Few Ratings,45
+453,The Paratha Singh,the-paratha-singh-kharadi-kharadi,pune,200,Too Few Ratings,46
+454,Knight Bite Restaurant,night-bite-restaurant-magarpatta-magarpatta,pune,300,Too Few Ratings,47
+455,Oye Hoye Paajee!,oye-hoye-paajee!-kharadi-kharadi,pune,200,Too Few Ratings,48
+456,Jashn E Punjab,jashn-e-punjab-kharadi-kharadi,pune,200,Too Few Ratings,49
+457,A1 Zaika,a1restaurant-lohgaon-lohgaon,pune,300,Too Few Ratings,48
+458,Hotel Mughal Darbaar,hotel-arab-zaika-swargate,pune,200,Too Few Ratings,47
+459,Malang Biryani,malang-biryani-kharadi-kharadi,pune,200,Too Few Ratings,48
+460,HALAAL RESTUARANT,halaal-restuarant-lohgaon-lohgaon,pune,300,Too Few Ratings,47
+461,Beef Locknawi Special,food-point-lohgaon-lohgaon-2,pune,300,Too Few Ratings,48
+462,AL QURESH BEEF,royal-pune-lohgaon-lohgaon-2,pune,300,Too Few Ratings,47
+463,Just To Eat Restaurant,just-to-eat-restaurant-magarpatta-magarpatta,pune,400,Too Few Ratings,49
+464,Hedayet,hedayet-lohgaon-lohgaon,pune,300,Too Few Ratings,47
+465,ALADEEN  RESTAURANT,aladeen-restaurant-lohgaon-lohgaon,pune,300,Too Few Ratings,49
+466,Katheez Rolls,katheez-rolls-kharadi-kharadi,pune,250,Too Few Ratings,46
+467,BUFF SPECIAL,buff-special-lohgaon-lohgaon,pune,300,Too Few Ratings,50
+468,Hotel Bade Miya,hotel-lazeez-lohgaon-lohgaon,pune,300,Too Few Ratings,50
+469,Sardarji Food,sardarji-food-kharadi-kharadi,pune,400,Too Few Ratings,49
+470,NOODLE SHOODLE,noodle-shoodle-lohgaon-lohgaon,pune,300,Too Few Ratings,49
+471,Sadda Panjab,sadda-panjab-kharadi-kharadi,pune,500,Too Few Ratings,49
+472,Al Riyan Restaurant,al-riyan-restaurant-kharadi-kharadi,pune,500,Too Few Ratings,46
+473,KUMAR RESTAURANT,kumar-restaurant-kharadi-kharadi-2,pune,500,Too Few Ratings,47
+474,Rayalaseema Reddy's  Family Restaurant,rayalaseema-reddy's-family-restaurant-kharadi-kharadi,pune,550,Too Few Ratings,47
+475,RUHI RESTAURANT,ruhi-restaurant-kharadi-kharadi-2,pune,500,Too Few Ratings,49
+476,South Sagar,south-sagar-lohgaon-lohgaon,pune,300,Too Few Ratings,48
+477,Chennai Tiffins,chennai-tiffins-kharadi-kharadi,pune,600,Too Few Ratings,47
+478,Ice n Spice,ice-n-spice-kharadi-kharadi,pune,600,Too Few Ratings,47
+479,Indian Zaika,indian-zaika-kharadi-kharadi,pune,600,Too Few Ratings,46
+480,Hotel Ali Baba,hotel-ali-baba-lohgaon-lohgaon,pune,300,Too Few Ratings,49
+481,Jumma Special,rewar-park-lohgaon-lohgaon-2,pune,300,Too Few Ratings,50
+482,Miya Bhai's kitchen,miya-bhai's-kitchen-kharadi-kharadi,pune,600,Too Few Ratings,47
+483,Balaji Bhavan,balaji-bhavan-kharadi-kharadi,pune,600,Too Few Ratings,47
+484,Hum Dum Biryani,hum-dum-biryani-kharadi-kharadi,pune,300,Too Few Ratings,44
+485,TAJ RESTAURANT,taj-restaurant-lohgaon-lohgaon,pune,300,Too Few Ratings,47
+486,Kebab Corner,kebab-corner-kharadi-kharadi,pune,350,Too Few Ratings,45
+487,BIGA RESTAURANT,biga-restaurant-kharadi-kharadi,pune,500,Too Few Ratings,58
+488,Beef Hyderabadi,rk-restaurant-lohgaon-lohgaon-2,pune,300,Too Few Ratings,50
+489,Kebab and Rolls,kebab-and-rolls-kharadi-kharadi,pune,250,Too Few Ratings,46
+490,Seervi Bandhu mithaiwala,seervi-bandhu-mithaiwala-kharadi-kharadi,pune,150,20+ ratings,42
+491,PIZZA PARADISEA,pizza-paradisea-bibwewadi-bibwewadi,pune,200,Too Few Ratings,66
+492,Pizza Hot,pizza-hot-swargate-swargate,pune,200,Too Few Ratings,63
+493,Rolling Roll,rolling-roll-kharadi-kharadi,pune,200,Too Few Ratings,52
+494,Chicago Pizza,chicago-pizza-kharadi-kharadi,pune,250,100+ ratings,48
+495,Nandu's Paratha,nandus-paratha-kondhwa-kharadi,pune,300,100+ ratings,52
+496,Chalu Momo,chalu-momo-kharadi-kharadi,pune,150,20+ ratings,52
+497,Fried chicken Destination,fried-chicken-destination-magarpatta-magarpatta,pune,200,1000+ ratings,47
+498,The	Fort Bar & Kitchen,the	fort-bar-&-kitchen-hadapsar-hadapsar,pune,400,20+ ratings,55
+499,Hotel Madhura,hotel-madhura-lohgaon-lohgaon,pune,300,100+ ratings,51
+500,Chini Chor,chini-chor-kharadi,pune,200,50+ ratings,49
+501,Shaukeen Paan Kharadi,shaukeen-paan-kharadi-kharadi-kharadi,pune,50,20+ ratings,42
+502,Biryani House,biryani-house-kharadi-kharadi,pune,200,100+ ratings,45
+503,Sai Restaurant,shree-sai-restaurant-vishrantwadi-vishrantwadi,pune,300,100+ ratings,52
+504,Relax Pure Veg,relax-pure-veg-parvati-swargate,pune,500,1000+ ratings,52
+505,Biryani Paradise,biryani-paradise-lohgaon-lohgaon,pune,300,Too Few Ratings,49
+506,Bubsterr's Bar & Kitchen,bubsterrs-bar-kitchen-kharadi-kharadi,pune,700,20+ ratings,51
+507,THE ROYALS CHOPSTICKS,the-royals-chopsticks-lohgaon-lohgaon,pune,250,Too Few Ratings,53
+508,MAA KE ROSEI,maa-ke-rosei-lohgaon-lohgaon,pune,400,Too Few Ratings,57
+509,The Royal's Kitchen,the-royal's-kitchen-lohgaon-lohgaon,pune,400,20+ ratings,55
+510,Tandoori Paradise,tandoori-paradise-lohgaon-lohgaon,pune,300,Too Few Ratings,63
+511,Bengolis Kitchen,bengolis-kitchen-lohgaon-lohgaon,pune,250,20+ ratings,55
+512,Dum Zaiqa Handis Pvt Ltd,dum-zaiqa-handis-pvt-ltd-kharadi-kharadi,pune,500,Too Few Ratings,49
+513,Nimrah Biryani,nimrah-biryani-bopodi,pune,250,Too Few Ratings,57
+514,Westburg,westburg-kharadi-kharadi,pune,400,20+ ratings,51
+515,RAYALASEEMA REDDYS FAMILY RESTAURANT,rayalaseema-reddys-family-restaurant-kharadi-kharadi,pune,750,Too Few Ratings,53
+516,APNA HYDERABADI BIRYANI HOUSE,apna-hyderabadi-biryani-house-kharadi-kharadi,pune,750,Too Few Ratings,52
+517,Hotel Ranjatra,hotel-ranjatra-wagholi-wagholi,pune,250,20+ ratings,51
+518,Ek Saugaat,ek-saugaat-lohgaon-lohgaon,pune,500,Too Few Ratings,59
+519,KIWA RESTAURANT & BAR,kiwa-cafe-kharadi-kharadi,pune,250,Too Few Ratings,56
+520,Zomoz - The Momo Company,zomoz---the-momo-company-lohgaon-lohgaon,pune,250,100+ ratings,55
+521,MINI PUNJAB DHABA,mini-punjab-dhaba-lohgaon-lohgaon,pune,250,Too Few Ratings,54
+522,B B C FRY NATION,b-b-c-fry-nation-lohgaon-lohgaon,pune,400,Too Few Ratings,56
+523,Zomoz - The Momo Company,zomoz---the-momo-company-lohgaon-lohgaon,pune,250,100+ ratings,55
+524,MINI PUNJAB DHABA,mini-punjab-dhaba-lohgaon-lohgaon,pune,250,Too Few Ratings,54
+525,B B C FRY NATION,b-b-c-fry-nation-lohgaon-lohgaon,pune,400,Too Few Ratings,56
